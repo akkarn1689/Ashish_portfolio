@@ -1,8 +1,8 @@
 # Portfolio Website
 Welcome to my personal portfolio website! This website showcases my skills, projects, and experiences as a software developer. It's built using React.js and serves as a platform to highlight my expertise and achievements.
 
+![image](https://github.com/user-attachments/assets/0a4bc570-c07b-48ea-a7e9-6c1d0cc4892f)
 
-![Screenshot from 2025-01-05 17-10-46](https://github.com/user-attachments/assets/69fb62f1-8005-4e9c-8e3f-7393d84b23c1)
 
 ### Tech Stack
 - ReactJs
