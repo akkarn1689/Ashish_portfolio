@@ -37,22 +37,24 @@ export const ExperienceList = [
     role: "Associate Technology (Dec 2024 - Present)",
     description: [
       "Developed and optimized backend features for a multi-tenant HRMS application, based on a 3-tier application architecture.",
+      "Implemented a scalable bulk document upload and download feature, automating document generation and streamlining HR workflows.",
       "Implemented a thumbnail generation feature using Amazon S3 Object Lambda, enhancing application performance by serving optimized images by default and retrieving original files only when explicitly required.",
       "Integrated WhatsApp via Twilio into the core notification feature of the application, enhancing multi-channel communication alongside existing email and SMS functionality.",
       "Implemented an end-to-end feature for document analysis and data extraction using the Gemini-1.5-Flash API, enabling seamless processing of uploaded documents and facilitating form autofill for enhanced user efficiency.",
+      "Implemented backend for Proxy User and Access Control features, enabling robust user management capabilities.",
       "Implemented cron job scheduling for tasks automating for feature like leave accrual & employee absconding, streamlining operations, and reducing manual work.",
-      " Implemented backend for Proxy User and Access Control features, enabling robust user management capabilities."
     ],
     isc: false,
   },
   {
     title: "Pried.in",
-    role: "Frontend Developer Intern (May 2024 - November 2024)",
+    role: "Frontend Developer (May 2024 - November 2024)",
     description: [
-      "Developed core virtual classroom features at Pried.in, enabling real-time interaction and efficient class management.",
-      "Implemented attendance tracking and file-sharing feature using robust backend APIs.",
-      "Demonstrated exceptional coding efficiency by writing over 2000 lines of production-ready code within a week, meeting critical project deadlines.",
-      "Identified and resolved critical bugs in core functionalities, including seat booking and user authentication, improving system stability and reducing bug report by 60%."
+      "Built core modules for a React-based Institute Management System, including student and faculty management,file sharing, attendance tracking, vehicle tracking and notifications.",
+      "Contributed to the Learning Module, which includes features like the video content, class notes and assessments.",
+      "Developed parts of the React Native mobile application, ensuring consistency with the web platform.",
+      "Integrated APIs and managed state with Redux to ensure smooth data flow and responsive UI.",
+      "Assisted in the development of a Hospital Management System, focusing on inventory management for medicine stock tracking and room allocation features."
     ],
     // certificate: "https://drive.google.com/file/d/1eQbEyzSLC6h14S5gycv2Lj-apLHL4tGt/view?usp=sharing",
     isc: false,

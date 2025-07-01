@@ -41,7 +41,7 @@ function About() {
             At <strong>FlexiEle</strong>, my main focus is <strong>backend development</strong>, where I work   
             on <strong>adding features, implementing system designs, and setting up automated procedures and workflow.</strong> I 
              enjoy creating efficient, scalable solutions that enhance the functionality of our software.
-            During my internship at Pried.in, I worked on designing complex user interfaces and front-end development, 
+            During my time at Pried.in, I worked on designing complex user interfaces and front-end development,
             giving me a well-rounded perspective on software engineering.
 
             <br />
